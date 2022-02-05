@@ -10,5 +10,6 @@ Un blog increíble para el [curso de Git y GitHub de Platzi](http://https://plat
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy (el profesor jeje)
 * Creado por una prinicipiante 
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y no está de más aclarar que: **este readme es un chiste**. Diseñado para el ejemplo. Si llegas acá,  NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](httphttps://platzi.com/cursos/git-github/?utm_source=google&utm_medium=cpc&utm_campaign=12915366154&utm_adgroup=&utm_content=&gclid=Cj0KCQiAuvOPBhDXARIsAKzLQ8FHLN3Dtr40chNJSzSsJxHorvj6xixB4QniibVHhLMfhFaAprPOhRYaAqVBEALw_wcB&gclsrc=aw.ds:// "**a ver el curso**")
